@@ -21,4 +21,4 @@ Interactive dashboard built in Excel to analyze sales, profit, and trends.
 - Charts
 
 ## Preview
-![Dashboard](dashboard.png)
+![Dashboard](Sales-Performance-Dashboard.png)
