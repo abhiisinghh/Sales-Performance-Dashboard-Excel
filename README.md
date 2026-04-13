@@ -57,4 +57,4 @@ Interactive HR Analytics dashboard built in Excel to analyze employee attrition 
 - Excel Dashboard File (.xlsx)  
 
 ### 🔹 Preview
-![Dashboard](HR Analytics Dashboard.png)
+![Dashboard](HR_Dashboard.png)
